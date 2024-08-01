@@ -51,3 +51,4 @@ Feel free to contribute more links to this list! Submit a pull request or open a
 | **General STEM**          | Science Olympiad                                                                              | [Science Olympiad](https://www.soinc.org)      | 🌍      |
 |                           | Math Olympiads for Elementary and Middle Schools (MOEMS)                                      | [MOEMS](https://moems.org)                     | 🌍      |
 |                           | Формула Единства                                                                               | [Формула Единства](https://olimpiada.ru)       | 🇷🇺 |
+| **Philosophy**            | International Philosophy Olympiad (IPO)                                                      | [IPO](http://www.philosophyolympiad.org)      | 🌍      |
