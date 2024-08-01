@@ -1,6 +1,10 @@
 # Awesome Olympiads
 
-A curated list of notable academic olympiads across various subjects. Dive in to find competitions that challenge and inspire students worldwide.
+A curated list of notable academic olympiads across various subjects. 
+Dive in to find competitions that challenge and inspire students worldwide.
+
+## Contribute
+Feel free to contribute more links to this list! Submit a pull request or open an issue with your suggestions.
 
 ## Olympiad Table
 
@@ -34,6 +38,3 @@ A curated list of notable academic olympiads across various subjects. Dive in to
 |                           | Math Olympiads for Elementary and Middle Schools (MOEMS)                                      | [MOEMS](https://moems.org)                    |
 | **Philosophy**            | International Philosophy Olympiad (IPO)                                                       | [IPO](http://www.philosophyolympiad.org)      |
 
-## Contribute
-
-Feel free to contribute more links to this list! Submit a pull request or open an issue with your suggestions.
