@@ -3,7 +3,7 @@
 A curated list of notable academic olympiads across various subjects. Find closest to you and participate!
 
 ## Contribute
-Feel free to contribute more links to this list! Submit a pull request or open an issue with your suggestions.
+Feel free to contribute more links to this list! Submit a pull request or open an issue with your suggestions
 
 ## Olympiad Table
 
@@ -19,8 +19,8 @@ Feel free to contribute more links to this list! Submit a pull request or open a
 |                           | American Mathematics Competitions (AMC)                                                       | [AMC](https://www.maa.org/math-competitions/amc) | 🇺🇸 |
 |                           | International Math and Science Olympiad (IMSO)                                                | [IMSO](https://projects.iq.harvard.edu/matholympiad/home) | 🌍 |
 | **Programming**           | International Olympiad in Informatics (IOI)                                                   | [IOI](https://ioinformatics.org)               | 🇷🇴     |
-|                           | United States of America Computing Olympiad (USACO)                                            | [USACO](https://usaco.guide)                  | 🇺🇸     |
 |                           | ACM International Collegiate Programming Contest (ICPC)                                        | [ICPC](https://icpc.global)                   | 🇺🇸     |
+|                           | ACM-ICPC 2014 World Finals                                                                    | [2014 World Finals](https://icpc.global/community/results-2014) | 🇷🇺     |
 |                           | IEEEXtreme Programming Competition                                                             | [IEEEXtreme](https://ieeextreme.org)          | 🇺🇸     |
 |                           | Google Code Jam                                                                                | [Code Jam](https://codingcompetitions.withgoogle.com/codejam) | 🇺🇸 |
 |                           | Google Hash Code                                                                               | [Hash Code](https://codingcompetitions.withgoogle.com/hashcode) | 🇺🇸 |
@@ -40,6 +40,11 @@ Feel free to contribute more links to this list! Submit a pull request or open a
 |                           | AtCoder Contests                                                                               | [AtCoder](https://atcoder.jp/contests)        | 🇯🇵     |
 |                           | LeetCode Contests                                                                              | [LeetCode](https://leetcode.com/contest)      | 🇺🇸     |
 |                           | Harker Programming Invitational                                                                 | [Harker](https://harkerprogramming.com)       | 🇺🇸     |
+|                           | BME International 24-hour Programming Contest                                                  | [BME Contest](https://www.bme.hu)             | 🇭🇺     |
+|                           | ICFP Programming Contest                                                                       | [ICFP](https://icfpcontest.org)               | 🌍      |
+|                           | Internet Problem Solving Contest                                                               | [IPSC](https://ipsc.ksp.sk)                   | 🇸🇰     |
+|                           | International Obfuscated C Code Contest                                                        | [IOCCC](http://www.ioccc.org)                 | 🌍      |
+|                           | Codeforces Global Round                                                                        | [Global Round](https://codeforces.com)        | 🌍      |
 | **Linguistics**           | International Linguistics Olympiad (IOL)                                                      | [IOL](https://ioling.org)                     | 🌍      |
 | **Science**               | International Science Olympiad (ISO)                                                          | [ISO](https://www.iosociety.org)              | 🌍      |
 |                           | International Physics Olympiad (IPhO)                                                         | [IPhO](http://www.ipho.org)                   | 🌍      |
@@ -56,3 +61,7 @@ Feel free to contribute more links to this list! Submit a pull request or open a
 | **General STEM**          | Science Olympiad                                                                              | [Science Olympiad](https://www.soinc.org)     | 🇺🇸     |
 |                           | Math Olympiads for Elementary and Middle Schools (MOEMS)                                      | [MOEMS](https://moems.org)                    | 🇺🇸     |
 | **Philosophy**            | International Philosophy Olympiad (IPO)                                                       | [IPO](http://www.philosophyolympiad.org)      | 🌍      |
+
+## Contribute
+
+Feel free to contribute more links to this list! Submit a pull request or open an issue with your suggestions.
